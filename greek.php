@@ -21,10 +21,10 @@
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
-$_LANG['locale'] = "en_GB";
+$_LANG['locale'] = "el_GR";
 
-$_LANG['accountinfo'] = "Account Information";
-$_LANG['accountstats'] = "Account Statistics";
+$_LANG["accountinfo"] = "Πληροφορίες Λογαριασμού";
+$_LANG["accountstats"] = "Στατιστικά Λογαριασμού";
 $_LANG['addfunds'] = "Add Funds";
 $_LANG['addfundsamount'] = "Amount to Add";
 $_LANG['addfundsmaximum'] = "Maximum Deposit";
